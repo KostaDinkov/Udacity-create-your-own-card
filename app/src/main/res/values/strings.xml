@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Baba Marta</string>
+    <string name="happybm">Happy Baba Marta</string>
+
+    <string name="first_info">
+        Baba Marta is an ancient Bulgarian tradition celebrating the end of winter.
+        The legend represents the month of March as an old lady with warm and at
+        the same time grumpy temper, reflecting the weather at this time of the year.
+    </string>
+
+    <string name="second_info">
+        Few weeks before the 1st of March, on the streets of all towns
+        and villages, merchants start selling the traditional charms, made of red and white
+        woolen threads, coming in all shapes and forms.They are called "Martenitsa".
+    </string>
+
+    <string name="third_info">
+        People of all ages buy or make ‘matrtenitsa’s and give them as a gift to their family and
+        friends with wishes for good health. It is said that you have to wear them until you see
+        the first storks coming back from the south.
+    </string>
+</resources>
