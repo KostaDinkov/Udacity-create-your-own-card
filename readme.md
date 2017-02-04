@@ -17,4 +17,4 @@ the functionality to navigate between the pages using swipe gestures.
 License
 -------
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT [license](https://github.com/KostaDinkov/Udacity-create-your-own-card/blob/master/license.md).
